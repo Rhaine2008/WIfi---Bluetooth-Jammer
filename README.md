@@ -8,7 +8,7 @@ The project uses the Arduino IDE for development and is designed as a learning r
 
 > **Disclaimer:** This project is for educational and research purposes only. Any practical experiments must be conducted in a controlled environment with proper authorization. Deliberately interfering with Wi-Fi, Bluetooth, or other wireless communications may be illegal and can disrupt nearby devices and networks. This repository does not endorse unauthorized signal interference.
 
-> ### DOWNLOAD THE FILE OR COPY & PASTE THE CODE IN ARDUINO IDE wifi-bluejammer.ino
+> ### DOWNLOAD THE FILE OR COPY & PASTE THE CODE IN ARDUINO IDE "wifi-bluejammer.ino"
 
 ## 🛠️ Required Software
 
